@@ -1,0 +1,27 @@
+.wrapper{
+    margin: 2px;
+}
+
+.nav{
+    position: relative;
+    top: 1;
+    right: 0;
+    width: 300px;
+    background-color: lightslategray;
+    border: 3px solid green;
+}
+
+.positioning {
+    width: 75%;
+    background-color: lightgoldenrodyellow;
+}
+
+.positioning h1{
+    text-align: left
+}
+
+.lotsoftext{
+    text-align: left;
+    background-color: navy;
+    width: 50%;
+}
